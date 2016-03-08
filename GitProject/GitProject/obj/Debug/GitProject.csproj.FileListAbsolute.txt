@@ -1,0 +1,5 @@
+c:\users\leonw\documents\visual studio 2012\Projects\GitProject\GitProject\bin\GitProject.dll
+c:\users\leonw\documents\visual studio 2012\Projects\GitProject\GitProject\bin\GitProject.pdb
+c:\users\leonw\documents\visual studio 2012\Projects\GitProject\GitProject\obj\Debug\GitProject.csprojResolveAssemblyReference.cache
+c:\users\leonw\documents\visual studio 2012\Projects\GitProject\GitProject\obj\Debug\GitProject.dll
+c:\users\leonw\documents\visual studio 2012\Projects\GitProject\GitProject\obj\Debug\GitProject.pdb
